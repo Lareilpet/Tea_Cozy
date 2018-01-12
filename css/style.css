@@ -84,3 +84,38 @@ nav span {
   height: 200px;
   width: 300px;
 }
+
+.locations {
+  background-image: url("../Images/img-locations-background.jpg");
+  width: 1200px;
+  height: 500px;
+}
+
+.loc_title h2 {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.address {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.downtown {
+  background-color: black;
+  width: 300px;
+  margin: 15px 20px;
+}
+
+.east_bayside {
+  background-color: black;
+  width: 300px;
+  margin: 15px 20px;
+}
+
+.oakdale {
+  background-color: black;
+  width: 300px;
+  margin: 15px 20px;
+}
