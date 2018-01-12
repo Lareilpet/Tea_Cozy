@@ -58,3 +58,29 @@ nav span {
 .mission h4 {
   text-align: center;
 }
+
+.part2 {
+  background-color: black;
+}
+
+.part2 h2 {
+  text-align: center;
+}
+
+.part2 h4 {
+  text-align: center;
+}
+
+.available_teas {
+  width: 1000px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  margin-left: 100px;
+}
+
+.available_teas img {
+  height: 200px;
+  width: 300px;
+}
