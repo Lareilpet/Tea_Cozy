@@ -119,3 +119,13 @@ nav span {
   width: 300px;
   margin: 15px 20px;
 }
+
+.contact {
+  height: 200px;
+  text-align: center;
+}
+
+.copy {
+  text-align: left;
+  padding-left: 20px;
+}
